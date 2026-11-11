@@ -1,5 +1,5 @@
-FILE=deck_prjct
-TITLE=202X_conf_prjct
+FILE=deck_xtrialcmp
+TITLE=202X_conf_xtrialcmp
 
 all: html pdf
 
